@@ -1,0 +1,20 @@
+{
+  "name": "call-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "hbsfy": "^2.4.1",
+    "transform-loader": "^0.2.4",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
